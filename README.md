@@ -1,6 +1,6 @@
-# cli-setup-data-
+# Mac CLI Setup
 
-Set up for a great CLI workspace.
+Set up for a great CLI workspace on a mac.
 
 ## How To Use
 
@@ -16,8 +16,12 @@ Set up for a great CLI workspace.
 
 ## What it Does
 
-## Homebrew
+TODO
 
 ## Terminal
 
 The script sets up the terminal essentially as suggested by Kevin Smets [here](https://gist.github.com/kevin-smets/8568070). This includes Iterm2, Oh-My-Zsh, PowerLevel9K, Solarized Dark Theme, and syntax highlighting.
+
+## IDE
+
+I currently like VSCode as an IDE due to aesthetic appearance, useful packages, and commodity of features.
