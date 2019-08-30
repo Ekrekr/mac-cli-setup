@@ -24,6 +24,12 @@ Set up for a great CLI workspace on a mac.
 
     4. **Density (at bottom) -> Compact**, then press done
 
+5. Set github config
+
+    1. `git config --global user.name "Elias Kassell"`
+
+    2. `git config --global user.email "eliaskasell@gmail.com`
+
 ## What it Does
 
 TODO
