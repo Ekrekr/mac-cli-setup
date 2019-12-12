@@ -1,0 +1,21 @@
+{
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/node_modules": true
+  },
+  "workbench.editor.enablePreview": false,
+  "editor.tabSize": 2,
+  "editor.suggestSelection": "first",
+  // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
